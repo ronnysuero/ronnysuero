@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/ronnysuero/">
   <img align="left" alt="Ronny's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -17,11 +17,11 @@ I'm an experienced software developer with 7+ years of experience in developing 
 
 I've honed my analytical thinking and collaboration skills, and I love working with a team, also. I am very flexible with different technologies and methodologies, and so I’m able to learn and adapt to new environments quickly.
 
-- 💼 any freelance work? do reach, [email](mailto:ronnysuero@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:ronnysuero@gmail.com) :)
 
 <br />
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -31,16 +31,16 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-🚧 **my todoist stats:**
+<br />
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-
-📈 my github stats
+<br />
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronnysuero&show_icons=true&theme=gotham" alt="ronnysuero" />
