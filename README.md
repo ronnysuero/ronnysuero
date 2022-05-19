@@ -35,10 +35,6 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br />
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 <br />
 📈 My github stats
