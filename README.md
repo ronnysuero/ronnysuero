@@ -48,12 +48,6 @@ HTML             3 mins          ▒░░░░░░░░░░░░░░�
 
 <br />
 
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-<br />
-
 📈 **My github stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronnysuero&show_icons=true&theme=gotham" alt="ronnysuero" />
