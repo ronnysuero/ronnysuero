@@ -32,6 +32,7 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This week I spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -52,8 +53,9 @@ HTML             3 mins          ▒░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 <br />
-📈 My github stats
+
+📈 **My github stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronnysuero&show_icons=true&theme=gotham" alt="ronnysuero" />
 
-<br /><br />
+<br />
