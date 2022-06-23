@@ -36,12 +36,12 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       15 hrs 55 mins  █████████████████▒░░░░░░░   69.63 %
-HTML             4 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-JSON             1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-SCSS             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TypeScript       17 hrs 16 mins  ██████████████████░░░░░░░   71.86 %
+HTML             4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+JSON             1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+SCSS             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
