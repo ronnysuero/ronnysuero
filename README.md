@@ -13,7 +13,7 @@
 
 <br />
 
-I'm an experienced software developer with 7+ years of experience in developing web apps in a variety of companies. My strongest skills are .Net and Angular 2+.
+As a senior software engineer, I develop web apps for various clients using C# and Typescript. I have 9+ years of experience in this field, working with different technologies and methodologies.  I enjoy collaborating with my team and learning from their feedback and insights. Likewise, I'm also flexible and adaptable to changing requirements and environments. My goal is to deliver high-quality solutions that meet the needs and expectations of the users and stakeholders.  
 
 I've honed my analytical thinking and collaboration skills, and I love working with a team, also. I am very flexible with different technologies and methodologies, and so I’m able to learn and adapt to new environments quickly.
 
