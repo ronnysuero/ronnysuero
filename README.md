@@ -36,11 +36,11 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-Java              9 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.42 %
-C#                4 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-Python            4 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-XML               1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Other             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Python            10 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   37.27 %
+Java              9 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 %
+C#                3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+XML               1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Other             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
