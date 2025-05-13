@@ -36,9 +36,8 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   40 mins         ███████████████▒░░░░░░░░░   61.87 %
-Java       24 mins         █████████▒░░░░░░░░░░░░░░░   37.67 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Markdown   40 mins         ████████████████████████▓   99.26 %
+Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
