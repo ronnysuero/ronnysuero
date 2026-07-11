@@ -36,11 +36,11 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-C#              2 hrs 16 mins         ████████████░░░░░░░░░░░░░   47.70 %
-Other           31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Text            30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Markdown        27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-JSON            26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+C#         2 hrs 39 mins         █████████████░░░░░░░░░░░░   52.06 %
+Markdown   41 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Text       25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+JSON       24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+HTML       19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
