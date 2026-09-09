@@ -36,8 +36,11 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 mins               █████████████████████▒░░░   85.65 %
-HTML         1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Bash              12 mins               ████████░░░░░░░░░░░░░░░░░   32.05 %
+TypeScript        11 mins               ███████░░░░░░░░░░░░░░░░░░   28.34 %
+YAML              10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+Markdown          2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+HTML              1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
