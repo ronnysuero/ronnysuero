@@ -36,11 +36,11 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              12 mins               ████████░░░░░░░░░░░░░░░░░   32.05 %
-TypeScript        11 mins               ███████░░░░░░░░░░░░░░░░░░   28.34 %
-YAML              10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
-Markdown          2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-HTML              1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+PowerShell        31 mins               ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+YAML              25 mins               ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Other             21 mins               █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Bash              12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+JSON              5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
