@@ -36,11 +36,11 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell        31 mins               ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-YAML              25 mins               ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-Other             21 mins               █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Bash              12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-JSON              5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+PowerShell        31 mins               ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+YAML              25 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+Other             21 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
+Bash              12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+JSON              5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
