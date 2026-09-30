@@ -36,10 +36,9 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       5 mins                █████████████████▓░░░░░░░   71.01 %
-HTML         1 min                 █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-TypeScript   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   9 mins                ████████████▓░░░░░░░░░░░░   50.11 %
+SQL      5 mins                ███████▒░░░░░░░░░░░░░░░░░   29.62 %
+C#       3 mins                █████░░░░░░░░░░░░░░░░░░░░   20.27 %
 ```
 
 <!--END_SECTION:waka-->
