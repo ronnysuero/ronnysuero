@@ -36,8 +36,7 @@ I've honed my analytical thinking and collaboration skills, and I love working w
 <!--START_SECTION:waka-->
 
 ```txt
-C#     12 mins               ███████████████████████▓░   95.15 %
-Text   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
